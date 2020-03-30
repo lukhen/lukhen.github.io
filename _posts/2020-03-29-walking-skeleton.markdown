@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Walking Skeleton"
-date:   2020-03-29 08:44:42 +0200
-categories: jekyll update
+date:   2020-02-01 11:49:36 +0200
 ---
 
 I like the idea of starting the project by implementing a tiny feature and test it end to end.
