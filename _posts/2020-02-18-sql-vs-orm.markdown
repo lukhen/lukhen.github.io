@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sql vs orm"
-date:   2020-02-27 12:26:36 +0200
+date:   2020-02-18 12:26:36 +0200
 ---
 Some say that good, well parametrized sql statements can be more efficient and readable than orm objects. We'll see.
 
