@@ -16,4 +16,5 @@ technologies that I've thought would work together, are completely incompatible.
 
 [code][code]
 
-[code]: https://github.com/lukhen/lukhbook/releases/tag/b1
+[code2]: https://github.com/lukhen/lukhbook/releases/tag/b1
+[code]: https://github.com/lukhen/lukhbook/commit/c0084bcad1c05f5746ce039b2ace8af1cefef62d

@@ -14,4 +14,5 @@ docker container through args.
 
 [code][code]
 
-[code]: https://github.com/lukhen/lukhbook/releases/tag/b2
+[code2]: https://github.com/lukhen/lukhbook/releases/tag/b2
+[code]: https://github.com/lukhen/lukhbook/commit/a062f51a14214d782b317f07e9e3ede5c315bfa1

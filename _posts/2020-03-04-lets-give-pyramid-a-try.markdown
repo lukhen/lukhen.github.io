@@ -11,4 +11,5 @@ It doesn't have request as a global (I hate that in flask) but as a parameter.
 
 [code][code]
 
-[code]: https://github.com/lukhen/lukhbook/releases/tag/b8
+[code2]: https://github.com/lukhen/lukhbook/releases/tag/b8
+[code]: https://github.com/lukhen/lukhbook/commit/088e43f991ecd7fd845f3ba330de88913cd61305

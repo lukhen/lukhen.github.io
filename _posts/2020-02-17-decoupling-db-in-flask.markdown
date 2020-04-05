@@ -9,4 +9,6 @@ I can't accept handling database responsibilities (like retrieving data) in requ
 
 [code][code]
 
-[code]: https://github.com/lukhen/lukhbook/releases/tag/b5
+[code2]: https://github.com/lukhen/lukhbook/releases/tag/b5
+[code]: https://github.com/lukhen/lukhbook/commit/28fa1d8e40a24f53181f5d472c15aafc9e4b4cca
+

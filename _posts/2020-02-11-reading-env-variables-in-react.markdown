@@ -15,4 +15,5 @@ during the build step.
 
 [code][code]
 
-[code]: https://github.com/lukhen/lukhbook/releases/tag/b3
+[code2]: https://github.com/lukhen/lukhbook/releases/tag/b3
+[code]: https://github.com/lukhen/lukhbook/commit/d8a5d0f1c656c4a3aa2288c36f09b62832148b62

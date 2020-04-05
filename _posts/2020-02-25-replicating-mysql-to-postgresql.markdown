@@ -18,4 +18,5 @@ script.
 
 [code][code]
 
-[code]: https://github.com/lukhen/lukhbook/releases/tag/b7
+[code2]: https://github.com/lukhen/lukhbook/releases/tag/b7
+[code]: https://github.com/lukhen/lukhbook/commit/d7c73e6400507483ed3e0d0403e310c80066cdf8

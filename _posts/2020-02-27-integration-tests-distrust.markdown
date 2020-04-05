@@ -14,4 +14,5 @@ tdd
 
 [code][code]
 
-[code]: https://github.com/lukhen/lukhbook/releases/tag/b4
+[code2]: https://github.com/lukhen/lukhbook/releases/tag/b4
+[code]: https://github.com/lukhen/lukhbook/commit/d70a3087f41f7dccdaad5da611685f44e7b215b9

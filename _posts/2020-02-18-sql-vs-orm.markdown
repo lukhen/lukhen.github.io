@@ -7,4 +7,5 @@ Some say that good, well parametrized sql statements can be more efficient and r
 
 [code][code]
 
-[code]: https://github.com/lukhen/lukhbook/releases/tag/b6
+[code2]: https://github.com/lukhen/lukhbook/releases/tag/b6
+[code]: https://github.com/lukhen/lukhbook/commit/44ad895dce6e16abb945a7d5bebb57f05f1a2c99
