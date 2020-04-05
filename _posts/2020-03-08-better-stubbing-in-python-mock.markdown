@@ -7,4 +7,4 @@ Python's unittest.mock.Mock has some stubbing capabilities through side_effect, 
 
 [code][code]
 
-[code]: https://github.com/lukhen/lukhbook/releases/tag/b9
+[code]: https://github.com/lukhen/lukhbook/commit/a85a8c0f2adc11afcc4b2c81dd1c382e9208081d
