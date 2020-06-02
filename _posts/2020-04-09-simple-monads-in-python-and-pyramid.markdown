@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Simple monads in python and pyramid"
-date:   2020-04-05 11:49:36 +0200
+date:   2020-04-09 11:49:36 +0200
 ---
 
 Introduced simple/raw monads. The app is more robust. Exceptions are side effects.
