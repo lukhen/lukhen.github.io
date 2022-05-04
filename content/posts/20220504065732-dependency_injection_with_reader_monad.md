@@ -3,6 +3,8 @@ title = "Dependency injection with reader monad."
 draft = false
 +++
 
+Dependency injection with reader monad in typescript with fp-ts:
+
 1.  Change the signature of a function f: a-&gt;b to f: a-&gt;Reader&lt;x, b&gt;
 2.  Change the signatures of all functions that call f (g: c -&gt; d) to c -&gt; Reader&lt;x, d&gt;
 3.  Change all failing tests by introducing some fake x.
