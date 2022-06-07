@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>lukhemacs on lukhen</title><link>http://lukhen.com/tags/lukhemacs/</link><description>Recent content in lukhemacs on lukhen</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 04 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://lukhen.com/tags/lukhemacs/index.xml" rel="self" type="application/rss+xml"/><item><title>2022-06-04</title><link>http://lukhen.com/posts/2022-06-04/</link><pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-06-04/</guid><description>&lt;ul>
+&lt;li>temporary switching to lsp-mode for typescript&lt;/li>
+&lt;li>testing request handler&lt;/li>
+&lt;/ul></description></item><item><title>2022-06-03</title><link>http://lukhen.com/posts/2022-06-03/</link><pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-06-03/</guid><description>&lt;ul>
+&lt;li>setting lsp server var in myinit.org&lt;/li>
+&lt;/ul></description></item><item><title>2022-06-01</title><link>http://lukhen.com/posts/2022-06-01/</link><pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-06-01/</guid><description>&lt;ul>
+&lt;li>setting up deno in emacs&lt;/li>
+&lt;li>deno config for emacs&lt;/li>
+&lt;li>testing async with deno&lt;/li>
+&lt;/ul></description></item><item><title>2022-05-26</title><link>http://lukhen.com/posts/2022-05-26/</link><pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-26/</guid><description>&lt;ul>
+&lt;li>private links properties&lt;/li>
+&lt;li>new haskell project in lukhemacs&lt;/li>
+&lt;/ul></description></item><item><title>2022-05-25</title><link>http://lukhen.com/posts/2022-05-25/</link><pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-25/</guid><description>&lt;ul>
+&lt;li>backlinks don&amp;rsquo;t show for commented (#) lines&lt;/li>
+&lt;/ul></description></item><item><title>2022-05-22</title><link>http://lukhen.com/posts/2022-05-22/</link><pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-22/</guid><description>&lt;ul>
+&lt;li>exporting all roam&lt;/li>
+&lt;li>emacs straight&lt;/li>
+&lt;/ul></description></item><item><title>2022-05-21</title><link>http://lukhen.com/posts/2022-05-21/</link><pubDate>Sat, 21 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-21/</guid><description>&lt;ul>
+&lt;li>exporting with just a function&lt;/li>
+&lt;li>batch export&lt;/li>
+&lt;li>straight&lt;/li>
+&lt;/ul></description></item><item><title>2022-05-20</title><link>http://lukhen.com/posts/2022-05-20/</link><pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-20/</guid><description>&lt;ul>
+&lt;li>publishing&lt;/li>
+&lt;li>insert current filename in emacs&lt;/li>
+&lt;li>list files that were not published&lt;/li>
+&lt;/ul></description></item><item><title>2022-05-19</title><link>http://lukhen.com/posts/2022-05-19/</link><pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-19/</guid><description>&lt;ul>
+&lt;li>exclude file from export&lt;/li>
+&lt;li>add file tags&lt;/li>
+&lt;/ul></description></item><item><title>2022-05-18</title><link>http://lukhen.com/posts/2022-05-18/</link><pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-18/</guid><description>&lt;ul>
+&lt;li>exporting notes&lt;/li>
+&lt;/ul></description></item><item><title>2022-05-16</title><link>http://lukhen.com/posts/2022-05-16/</link><pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-16/</guid><description>fix links export ox-hugo had problems with exporting links. I tried a few solutions:
+https://github.com/kaushalmodi/ox-hugo/issues/483#issuecomment-1003301339 (setq org-id-extra-files (find-lisp-find-files org-roam-directory &amp;ldquo;\.org$&amp;rdquo;)) But the problem was somewhere else. I handled it by changing the way of exporting notes.</description></item><item><title>2022-05-15</title><link>http://lukhen.com/posts/2022-05-15/</link><pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-15/</guid><description>&lt;ul>
+&lt;li>exporting with tags&lt;/li>
+&lt;li>publish date&lt;/li>
+&lt;/ul></description></item><item><title>2022-05-06</title><link>http://lukhen.com/posts/2022-05-06/</link><pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-06/</guid><description>&lt;ul>
+&lt;li>itprojects&lt;/li>
+&lt;li>removed some file from tracking&lt;/li>
+&lt;/ul></description></item><item><title>2022-05-02</title><link>http://lukhen.com/posts/2022-05-02/</link><pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-02/</guid><description>&lt;ul>
+&lt;li>I changed dailies dir&lt;/li>
+&lt;li>change to hugo&lt;/li>
+&lt;/ul></description></item><item><title>2022-05-01</title><link>http://lukhen.com/posts/2022-05-01/</link><pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-01/</guid><description>&lt;ul>
+&lt;li>haskell-lsp, no lsp-ui&lt;/li>
+&lt;li>compiling hls&lt;/li>
+&lt;li>hugo instead of jekyll&lt;/li>
+&lt;/ul></description></item><item><title>2022-04-30</title><link>http://lukhen.com/posts/2022-04-30/</link><pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-04-30/</guid><description>&lt;ul>
+&lt;li>lsp&lt;/li>
+&lt;/ul></description></item><item><title>2022-04-29</title><link>http://lukhen.com/posts/2022-04-29/</link><pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-04-29/</guid><description>&lt;ul>
+&lt;li>language server&lt;/li>
+&lt;/ul></description></item><item><title>2022-04-27</title><link>http://lukhen.com/posts/2022-04-27/</link><pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-04-27/</guid><description>&lt;ul>
+&lt;li>emacs for haskell&lt;/li>
+&lt;/ul></description></item><item><title>2022-04-26</title><link>http://lukhen.com/posts/2022-04-26/</link><pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-04-26/</guid><description>&lt;ul>
+&lt;li>uninstall haskell&lt;/li>
+&lt;/ul></description></item><item><title>2022-03-12</title><link>http://lukhen.com/posts/2022-03-12/</link><pubDate>Sat, 12 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-12/</guid><description>&lt;ul>
+&lt;li>Updating the whole docker image is quite a task&lt;/li>
+&lt;li>functions&lt;/li>
+&lt;/ul></description></item><item><title>2022-03-11</title><link>http://lukhen.com/posts/2022-03-11/</link><pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-11/</guid><description>&lt;ul>
+&lt;li>filtering nodes in org-roam&lt;/li>
+&lt;li>passing a function as an arg in elisp&lt;/li>
+&lt;/ul></description></item><item><title>2022-03-10</title><link>http://lukhen.com/posts/2022-03-10/</link><pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-10/</guid><description>&lt;ul>
+&lt;li>error while building reactui2 after bumping up docker version&lt;/li>
+&lt;li>sparse tree with date&lt;/li>
+&lt;li>org roam search by date&lt;/li>
+&lt;/ul></description></item><item><title>2022-03-09</title><link>http://lukhen.com/posts/2022-03-09/</link><pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-09/</guid><description>&lt;ul>
+&lt;li>&amp;ldquo;/&amp;rdquo; at the end of proxy_pass&lt;/li>
+&lt;li>is all under control&lt;/li>
+&lt;li>templates&lt;/li>
+&lt;/ul></description></item><item><title>2022-03-08</title><link>http://lukhen.com/posts/2022-03-08/</link><pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-08/</guid><description>&lt;ul>
+&lt;li>org capture&lt;/li>
+&lt;/ul></description></item><item><title>2022-03-07</title><link>http://lukhen.com/posts/2022-03-07/</link><pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-07/</guid><description>&lt;ul>
+&lt;li>tags in emacs roam&lt;/li>
+&lt;/ul></description></item></channel></rss>

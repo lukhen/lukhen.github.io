@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>lukhencom on lukhen</title><link>http://lukhen.com/tags/lukhencom/</link><description>Recent content in lukhencom on lukhen</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 22 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://lukhen.com/tags/lukhencom/index.xml" rel="self" type="application/rss+xml"/><item><title>2022-05-22</title><link>http://lukhen.com/posts/2022-05-22/</link><pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-22/</guid><description>&lt;ul>
+&lt;li>exporting all roam&lt;/li>
+&lt;li>emacs straight&lt;/li>
+&lt;/ul></description></item><item><title>2022-05-21</title><link>http://lukhen.com/posts/2022-05-21/</link><pubDate>Sat, 21 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-21/</guid><description>&lt;ul>
+&lt;li>exporting with just a function&lt;/li>
+&lt;li>batch export&lt;/li>
+&lt;li>straight&lt;/li>
+&lt;/ul></description></item><item><title>2022-05-20</title><link>http://lukhen.com/posts/2022-05-20/</link><pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-20/</guid><description>&lt;ul>
+&lt;li>publishing&lt;/li>
+&lt;li>insert current filename in emacs&lt;/li>
+&lt;li>list files that were not published&lt;/li>
+&lt;/ul></description></item><item><title>2022-05-19</title><link>http://lukhen.com/posts/2022-05-19/</link><pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-19/</guid><description>&lt;ul>
+&lt;li>exclude file from export&lt;/li>
+&lt;li>add file tags&lt;/li>
+&lt;/ul></description></item><item><title>2022-05-16</title><link>http://lukhen.com/posts/2022-05-16/</link><pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-16/</guid><description>fix links export ox-hugo had problems with exporting links. I tried a few solutions:
+https://github.com/kaushalmodi/ox-hugo/issues/483#issuecomment-1003301339 (setq org-id-extra-files (find-lisp-find-files org-roam-directory &amp;ldquo;\.org$&amp;rdquo;)) But the problem was somewhere else. I handled it by changing the way of exporting notes.</description></item><item><title>2022-05-03</title><link>http://lukhen.com/posts/2022-05-03/</link><pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-03/</guid><description>&lt;ul>
+&lt;li>it finally works&lt;/li>
+&lt;li>keybindings&lt;/li>
+&lt;/ul></description></item><item><title>2022-05-02</title><link>http://lukhen.com/posts/2022-05-02/</link><pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-02/</guid><description>&lt;ul>
+&lt;li>I changed dailies dir&lt;/li>
+&lt;li>change to hugo&lt;/li>
+&lt;/ul></description></item><item><title>2022-05-01</title><link>http://lukhen.com/posts/2022-05-01/</link><pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-01/</guid><description>&lt;ul>
+&lt;li>haskell-lsp, no lsp-ui&lt;/li>
+&lt;li>compiling hls&lt;/li>
+&lt;li>hugo instead of jekyll&lt;/li>
+&lt;/ul></description></item><item><title>2022-04-28</title><link>http://lukhen.com/posts/2022-04-28/</link><pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-04-28/</guid><description>&lt;ul>
+&lt;li>custom dimain on github pages&lt;/li>
+&lt;/ul></description></item></channel></rss>

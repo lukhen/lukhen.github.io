@@ -1,0 +1,23 @@
+<!doctype html><html lang=en-us><head><meta charset=utf-8><meta http-equiv=x-ua-compatible content="IE=edge,chrome=1"><title>2022-01-29 | lukhen</title><meta name=viewport content="width=device-width,minimum-scale=1"><meta name=description content="
+TaskCoproduct4
+Sync to async refactoring
+"><meta name=generator content="Hugo 0.100.1"><meta name=robots content="noindex, nofollow"><link rel=stylesheet href=/ananke/css/main.min.css><meta property="og:title" content="2022-01-29"><meta property="og:description" content="
+TaskCoproduct4
+Sync to async refactoring
+"><meta property="og:type" content="article"><meta property="og:url" content="http://lukhen.com/posts/2022-01-29/"><meta property="article:section" content="posts"><meta property="article:published_time" content="2022-01-29T00:00:00+00:00"><meta property="article:modified_time" content="2022-01-29T00:00:00+00:00"><meta itemprop=name content="2022-01-29"><meta itemprop=description content="
+TaskCoproduct4
+Sync to async refactoring
+"><meta itemprop=datePublished content="2022-01-29T00:00:00+00:00"><meta itemprop=dateModified content="2022-01-29T00:00:00+00:00"><meta itemprop=wordCount content="192"><meta itemprop=keywords content="lukhentools,backend,"><meta name=twitter:card content="summary"><meta name=twitter:title content="2022-01-29"><meta name=twitter:description content="
+TaskCoproduct4
+Sync to async refactoring
+"></head><body class="ma0 avenir bg-near-white"><header><div class=bg-black><nav class="pv3 ph3 ph4-ns" role=navigation><div class="flex-l justify-between items-center center"><a href=/ class="f3 fw2 hover-white no-underline white-90 dib">lukhen</a><div class="flex-l items-center"><div class=ananke-socials></div></div></div></nav></div></header><main class=pb7 role=main><article class="flex-l flex-wrap justify-between mw8 center ph3"><header class="mt4 w-100"><aside class="instapaper_ignoref b helvetica tracked">POSTS</aside><div id=sharing class="mt3 ananke-socials"></div><h1 class="f1 athelas mt3 mb1">2022-01-29</h1><time class="f6 mv4 dib tracked" datetime=2022-01-29T00:00:00Z>January 29, 2022</time></header><div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><ul><li>TaskCoproduct4</li><li>Sync to async refactoring</li></ul><h2 id=taskcoproduct4>TaskCoproduct4 blog-potential</h2><p>I ended up with implementing the type TaskCoproduct4 with a helper function
+[TaskEither&lt;A, B>, TaskEither&lt;C, D>] => Taskcoproduct4&lt;[A, C], [A, D], [B, C], [B, D]>
+It&rsquo;s useful for testing asynchronous functions with possible errors. I looks promising.</p><p>I used Reader monad to introduce dependency into the tested function but the change seems to big.
+I guess I&rsquo;ll resign from Reader for now, I&rsquo;ll leave it for future changes.</p><p>I used git snapshot to store the code (Reader), to be able to easily look it up in the future.</p><h2 id=sync-to-async-refactoring>Sync to async refactoring</h2><p>Refactoring a function from synchronous to asyncronous, TaskEither.
+Add test:</p><ul><li>use TE.fold,</li><li>use Coproduct4.from&mldr; if you check with other async function</li></ul><p>Change signature and make the function type correct, without making the new test pass.
+Fix all type errors.
+Change all other tests to make them type correct and pass.
+Make the new test pass.</p><p>D in SOLID
+High level modules should not depend on low level modules. They both should depend on abstractions.
+getToken should be explicitly injected into responseForRequestWithData
+Reader monad</p><p>Good design should not demand test change after code change.</p><ul class=pa0><li class="list di"><a href=/tags/lukhentools class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">lukhentools</a></li><li class="list di"><a href=/tags/backend class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">backend</a></li></ul><div class="mt6 instapaper_ignoref"></div></div><aside class="w-30-l mt6-l"></aside></article></main><footer class="bg-black bottom-0 w-100 pa3" role=contentinfo><div class="flex justify-between"><a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href=http://lukhen.com/>&copy; lukhen 2022</a><div><div class=ananke-socials></div></div></div></footer></body></html>

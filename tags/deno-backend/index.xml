@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>deno-backend on lukhen</title><link>http://lukhen.com/tags/deno-backend/</link><description>Recent content in deno-backend on lukhen</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 04 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://lukhen.com/tags/deno-backend/index.xml" rel="self" type="application/rss+xml"/><item><title>2022-06-04</title><link>http://lukhen.com/posts/2022-06-04/</link><pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-06-04/</guid><description>&lt;ul>
+&lt;li>temporary switching to lsp-mode for typescript&lt;/li>
+&lt;li>testing request handler&lt;/li>
+&lt;/ul></description></item><item><title>2022-06-03</title><link>http://lukhen.com/posts/2022-06-03/</link><pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-06-03/</guid><description>&lt;ul>
+&lt;li>setting lsp server var in myinit.org&lt;/li>
+&lt;/ul></description></item></channel></rss>

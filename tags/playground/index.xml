@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>playground on lukhen</title><link>http://lukhen.com/tags/playground/</link><description>Recent content in playground on lukhen</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://lukhen.com/tags/playground/index.xml" rel="self" type="application/rss+xml"/><item><title>2022-06-01</title><link>http://lukhen.com/posts/2022-06-01/</link><pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-06-01/</guid><description>&lt;ul>
+&lt;li>setting up deno in emacs&lt;/li>
+&lt;li>deno config for emacs&lt;/li>
+&lt;li>testing async with deno&lt;/li>
+&lt;/ul></description></item><item><title>2022-05-31</title><link>http://lukhen.com/posts/2022-05-31/</link><pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-31/</guid><description>&lt;ul>
+&lt;li>typescript project as a library&lt;/li>
+&lt;li>install local modules with npm&lt;/li>
+&lt;li>deno install packages&lt;/li>
+&lt;li>play with deno&lt;/li>
+&lt;li>deno&lt;/li>
+&lt;/ul></description></item><item><title>2022-05-24</title><link>http://lukhen.com/posts/2022-05-24/</link><pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-24/</guid><description>&lt;ul>
+&lt;li>shared folder on virtual box&lt;/li>
+&lt;li>installed haskell for emacs&lt;/li>
+&lt;li>haskell in emacs&lt;/li>
+&lt;/ul></description></item><item><title>2022-05-05</title><link>http://lukhen.com/posts/2022-05-05/</link><pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-05/</guid><description>&lt;ul>
+&lt;li>installing some initial packages with errors&lt;/li>
+&lt;li>old tsc&lt;/li>
+&lt;/ul></description></item><item><title>2022-05-04</title><link>http://lukhen.com/posts/2022-05-04/</link><pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-04/</guid><description>&lt;ul>
+&lt;li>haskell test&lt;/li>
+&lt;/ul></description></item><item><title>2022-04-30</title><link>http://lukhen.com/posts/2022-04-30/</link><pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-04-30/</guid><description>&lt;ul>
+&lt;li>lsp&lt;/li>
+&lt;/ul></description></item><item><title>2022-04-29</title><link>http://lukhen.com/posts/2022-04-29/</link><pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-04-29/</guid><description>&lt;ul>
+&lt;li>language server&lt;/li>
+&lt;/ul></description></item><item><title>2022-04-26</title><link>http://lukhen.com/posts/2022-04-26/</link><pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-04-26/</guid><description>&lt;ul>
+&lt;li>uninstall haskell&lt;/li>
+&lt;/ul></description></item><item><title>2022-04-25</title><link>http://lukhen.com/posts/2022-04-25/</link><pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-04-25/</guid><description>&lt;ul>
+&lt;li>haskell cabal&lt;/li>
+&lt;li>haskell install&lt;/li>
+&lt;li>haskell a few lines of code&lt;/li>
+&lt;/ul></description></item><item><title>2022-03-20</title><link>http://lukhen.com/posts/2022-03-20/</link><pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-20/</guid><description>&lt;ul>
+&lt;li>Running haskell file with ghc&lt;/li>
+&lt;li>Drawing in haskell&lt;/li>
+&lt;li>Https only&lt;/li>
+&lt;/ul></description></item><item><title>2022-03-13</title><link>http://lukhen.com/posts/2022-03-13/</link><pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-13/</guid><description>&lt;ul>
+&lt;li>Haskell&amp;rsquo;s graphics package gloss&lt;/li>
+&lt;/ul></description></item></channel></rss>

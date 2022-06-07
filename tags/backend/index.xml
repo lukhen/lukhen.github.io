@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>backend on lukhen</title><link>http://lukhen.com/tags/backend/</link><description>Recent content in backend on lukhen</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 20 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://lukhen.com/tags/backend/index.xml" rel="self" type="application/rss+xml"/><item><title>2022-03-20</title><link>http://lukhen.com/posts/2022-03-20/</link><pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-20/</guid><description>&lt;ul>
+&lt;li>Running haskell file with ghc&lt;/li>
+&lt;li>Drawing in haskell&lt;/li>
+&lt;li>Https only&lt;/li>
+&lt;/ul></description></item><item><title>2022-03-19</title><link>http://lukhen.com/posts/2022-03-19/</link><pubDate>Sat, 19 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-19/</guid><description>&lt;ul>
+&lt;li>https request only&lt;/li>
+&lt;li>select count commands&lt;/li>
+&lt;/ul></description></item><item><title>2022-03-14</title><link>http://lukhen.com/posts/2022-03-14/</link><pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-14/</guid><description>&lt;ul>
+&lt;li>struggling with authservice&lt;/li>
+&lt;/ul></description></item><item><title>2022-02-21</title><link>http://lukhen.com/posts/2022-02-21/</link><pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-02-21/</guid><description>&lt;ul>
+&lt;li>getUser as dependency instead of getToken&lt;/li>
+&lt;li>Secure jwt&lt;/li>
+&lt;/ul></description></item><item><title>2022-02-18</title><link>http://lukhen.com/posts/2022-02-18/</link><pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-02-18/</guid><description>&lt;ul>
+&lt;li>jwt secret&lt;/li>
+&lt;/ul></description></item><item><title>2022-01-29</title><link>http://lukhen.com/posts/2022-01-29/</link><pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-01-29/</guid><description>&lt;ul>
+&lt;li>TaskCoproduct4&lt;/li>
+&lt;li>Sync to async refactoring&lt;/li>
+&lt;/ul></description></item></channel></rss>

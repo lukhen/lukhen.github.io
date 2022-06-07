@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>lukhbook on lukhen</title><link>http://lukhen.com/tags/lukhbook/</link><description>Recent content in lukhbook on lukhen</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 09 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://lukhen.com/tags/lukhbook/index.xml" rel="self" type="application/rss+xml"/><item><title>2022-05-09</title><link>http://lukhen.com/posts/2022-05-09/</link><pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-09/</guid><description>&lt;ul>
+&lt;li>supbprojects&lt;/li>
+&lt;li>submodules&lt;/li>
+&lt;/ul></description></item><item><title>2022-03-27</title><link>http://lukhen.com/posts/2022-03-27/</link><pubDate>Sun, 27 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-27/</guid><description>&lt;ul>
+&lt;li>python in lukhbook&lt;/li>
+&lt;/ul></description></item><item><title>2022-03-17</title><link>http://lukhen.com/posts/2022-03-17/</link><pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-17/</guid><description>solving settings problems Solving problems that concern software settings are sometimes very tricky. Lots of different software working togother is very satisfying, but it inevitably leads to hours of work when problem occurs. Most of the times it is the soft update that causes failures.</description></item><item><title>2022-03-03</title><link>http://lukhen.com/posts/2022-03-03/</link><pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-03/</guid><description>&lt;ul>
+&lt;li>Strange problem&lt;/li>
+&lt;/ul></description></item><item><title>2022-03-02</title><link>http://lukhen.com/posts/2022-03-02/</link><pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-02/</guid><description>&lt;ul>
+&lt;li>building lukhbook on droplet&lt;/li>
+&lt;/ul></description></item><item><title>2022-02-26</title><link>http://lukhen.com/posts/2022-02-26/</link><pubDate>Sat, 26 Feb 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-02-26/</guid><description>&lt;ul>
+&lt;li>pushing to github, gpg key&lt;/li>
+&lt;/ul></description></item><item><title>2022-02-25</title><link>http://lukhen.com/posts/2022-02-25/</link><pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-02-25/</guid><description>&lt;ul>
+&lt;li>I was trying to optimize picutres size&lt;/li>
+&lt;li>remove mirage&lt;/li>
+&lt;li>upgrading all docker images&lt;/li>
+&lt;/ul></description></item><item><title>2022-02-24</title><link>http://lukhen.com/posts/2022-02-24/</link><pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-02-24/</guid><description>&lt;ul>
+&lt;li>Problem with passing cypress test for auth service&lt;/li>
+&lt;li>Existance tests for all services&lt;/li>
+&lt;li>updating arch&lt;/li>
+&lt;/ul></description></item></channel></rss>

@@ -1,7 +1,191 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My New Hugo Site</title><link>http://lukhen.com/</link><description>Recent content on My New Hugo Site</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="http://lukhen.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Dependency injection with reader monad.</title><link>http://lukhen.com/posts/20220504065732-dependency_injection_with_reader_monad/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/20220504065732-dependency_injection_with_reader_monad/</guid><description>Dependency injection with reader monad in typescript with fp-ts:
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>lukhen</title><link>http://lukhen.com/</link><description>Recent content on lukhen</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 04 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://lukhen.com/index.xml" rel="self" type="application/rss+xml"/><item><title>2022-06-04</title><link>http://lukhen.com/posts/2022-06-04/</link><pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-06-04/</guid><description>&lt;ul>
+&lt;li>temporary switching to lsp-mode for typescript&lt;/li>
+&lt;li>testing request handler&lt;/li>
+&lt;/ul></description></item><item><title>2022-06-03</title><link>http://lukhen.com/posts/2022-06-03/</link><pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-06-03/</guid><description>&lt;ul>
+&lt;li>setting lsp server var in myinit.org&lt;/li>
+&lt;/ul></description></item><item><title>2022-06-01</title><link>http://lukhen.com/posts/2022-06-01/</link><pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-06-01/</guid><description>&lt;ul>
+&lt;li>setting up deno in emacs&lt;/li>
+&lt;li>deno config for emacs&lt;/li>
+&lt;li>testing async with deno&lt;/li>
+&lt;/ul></description></item><item><title>2022-05-31</title><link>http://lukhen.com/posts/2022-05-31/</link><pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-31/</guid><description>&lt;ul>
+&lt;li>typescript project as a library&lt;/li>
+&lt;li>install local modules with npm&lt;/li>
+&lt;li>deno install packages&lt;/li>
+&lt;li>play with deno&lt;/li>
+&lt;li>deno&lt;/li>
+&lt;/ul></description></item><item><title>2022-05-30</title><link>http://lukhen.com/posts/2022-05-30/</link><pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-30/</guid><description>&lt;ul>
+&lt;li>creating lukhentools&lt;/li>
+&lt;/ul></description></item><item><title>2022-05-26</title><link>http://lukhen.com/posts/2022-05-26/</link><pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-26/</guid><description>&lt;ul>
+&lt;li>private links properties&lt;/li>
+&lt;li>new haskell project in lukhemacs&lt;/li>
+&lt;/ul></description></item><item><title>2022-05-25</title><link>http://lukhen.com/posts/2022-05-25/</link><pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-25/</guid><description>&lt;ul>
+&lt;li>backlinks don&amp;rsquo;t show for commented (#) lines&lt;/li>
+&lt;/ul></description></item><item><title>2022-05-24</title><link>http://lukhen.com/posts/2022-05-24/</link><pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-24/</guid><description>&lt;ul>
+&lt;li>shared folder on virtual box&lt;/li>
+&lt;li>installed haskell for emacs&lt;/li>
+&lt;li>haskell in emacs&lt;/li>
+&lt;/ul></description></item><item><title>2022-05-23</title><link>http://lukhen.com/posts/2022-05-23/</link><pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-23/</guid><description>&lt;ul>
+&lt;li>variance annotations in typescript&lt;/li>
+&lt;/ul></description></item><item><title>2022-05-22</title><link>http://lukhen.com/posts/2022-05-22/</link><pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-22/</guid><description>&lt;ul>
+&lt;li>exporting all roam&lt;/li>
+&lt;li>emacs straight&lt;/li>
+&lt;/ul></description></item><item><title>2022-05-21</title><link>http://lukhen.com/posts/2022-05-21/</link><pubDate>Sat, 21 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-21/</guid><description>&lt;ul>
+&lt;li>exporting with just a function&lt;/li>
+&lt;li>batch export&lt;/li>
+&lt;li>straight&lt;/li>
+&lt;/ul></description></item><item><title>2022-05-20</title><link>http://lukhen.com/posts/2022-05-20/</link><pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-20/</guid><description>&lt;ul>
+&lt;li>publishing&lt;/li>
+&lt;li>insert current filename in emacs&lt;/li>
+&lt;li>list files that were not published&lt;/li>
+&lt;/ul></description></item><item><title>2022-05-19</title><link>http://lukhen.com/posts/2022-05-19/</link><pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-19/</guid><description>&lt;ul>
+&lt;li>exclude file from export&lt;/li>
+&lt;li>add file tags&lt;/li>
+&lt;/ul></description></item><item><title>2022-05-18</title><link>http://lukhen.com/posts/2022-05-18/</link><pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-18/</guid><description>&lt;ul>
+&lt;li>exporting notes&lt;/li>
+&lt;/ul></description></item><item><title>2022-05-16</title><link>http://lukhen.com/posts/2022-05-16/</link><pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-16/</guid><description>fix links export ox-hugo had problems with exporting links. I tried a few solutions:
+https://github.com/kaushalmodi/ox-hugo/issues/483#issuecomment-1003301339 (setq org-id-extra-files (find-lisp-find-files org-roam-directory &amp;ldquo;\.org$&amp;rdquo;)) But the problem was somewhere else. I handled it by changing the way of exporting notes.</description></item><item><title>2022-05-15</title><link>http://lukhen.com/posts/2022-05-15/</link><pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-15/</guid><description>&lt;ul>
+&lt;li>exporting with tags&lt;/li>
+&lt;li>publish date&lt;/li>
+&lt;/ul></description></item><item><title>2022-05-09</title><link>http://lukhen.com/posts/2022-05-09/</link><pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-09/</guid><description>&lt;ul>
+&lt;li>supbprojects&lt;/li>
+&lt;li>submodules&lt;/li>
+&lt;/ul></description></item><item><title>create a file with a similar name in emacs with avy</title><link>http://lukhen.com/posts/20220509071016-create_a_file_with_a_similar_name_in_emacs_with_avy/</link><pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/20220509071016-create_a_file_with_a_similar_name_in_emacs_with_avy/</guid><description>creating a file with a name that is similar to the one that already exists ex. &amp;ldquo;file1&amp;rdquo; exists, and you want to create &amp;ldquo;file&amp;rdquo;.
+C-M-j - go with current input instead of the current candidate</description></item><item><title>exporting to hugo</title><link>http://lukhen.com/posts/20220508122343-exporting_to_hugo/</link><pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/20220508122343-exporting_to_hugo/</guid><description>export zettel:
+add #+hugo_base_dir: ~/Desktop/blog (it&amp;rsquo;s not neccessary if it&amp;rsquo;s set in .dir-locals.el) if the blog post concerns a project add project-tag in #+filetags section add @zettels category in #+filetags section add publish date in hugo_publishdate section C-c C-e H A export note
+if the exported note concerns an itproject add project-tag in filetags section add @notes category in filetags section add publish date in hugo_publishdate section C-c C-e H A ignoring certain tags: https://www.</description></item><item><title>git, remove previously added file from tracking</title><link>http://lukhen.com/posts/20220508140035-git_remove_previously_added_file_from_tracking/</link><pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/20220508140035-git_remove_previously_added_file_from_tracking/</guid><description>git rm &amp;ndash;cached &amp;lt;file&amp;gt;</description></item><item><title>2022-05-06</title><link>http://lukhen.com/posts/2022-05-06/</link><pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-06/</guid><description>&lt;ul>
+&lt;li>itprojects&lt;/li>
+&lt;li>removed some file from tracking&lt;/li>
+&lt;/ul></description></item><item><title>2022-05-05</title><link>http://lukhen.com/posts/2022-05-05/</link><pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-05/</guid><description>&lt;ul>
+&lt;li>installing some initial packages with errors&lt;/li>
+&lt;li>old tsc&lt;/li>
+&lt;/ul></description></item><item><title>2022-05-04</title><link>http://lukhen.com/posts/2022-05-04/</link><pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-04/</guid><description>&lt;ul>
+&lt;li>haskell test&lt;/li>
+&lt;/ul></description></item><item><title>Dependency injection with reader monad.</title><link>http://lukhen.com/posts/20220504065732-dependency_injection_with_reader_monad/</link><pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/20220504065732-dependency_injection_with_reader_monad/</guid><description>Dependency injection with reader monad in typescript with fp-ts:
 Change the signature of a function f: a-&amp;gt;b to f: a-&amp;gt;Reader&amp;lt;x, b&amp;gt; Change the signatures of all functions that call f (g: c -&amp;gt; d) to c -&amp;gt; Reader&amp;lt;x, d&amp;gt; Change all failing tests by introducing some fake x. Example
 We have a type:
 interface Book { title: string author: string } a database:
-const books: Book[] = [ { title: &amp;#34;Iliad&amp;#34;, author: &amp;#34;Homer&amp;#34; }, { title: &amp;#34;For whom the bell tolls&amp;#34;, author: &amp;#34;Ernest Hemingway&amp;#34; }, { title: &amp;#34;Treasure Island&amp;#34;, author: &amp;#34;Robert Louis Stevenson&amp;#34; } ] 2 functions, where one is a dependency of the other:</description></item><item><title>Simple lens and traversal (optics in typescript with fp-ts)</title><link>http://lukhen.com/posts/20220417135003-simple_lense_and_traversal_optics_in_typescript_with_fp_ts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/20220417135003-simple_lense_and_traversal_optics_in_typescript_with_fp_ts/</guid><description>We have 3 simple types:
+const books: Book[] = [ { title: &amp;#34;Iliad&amp;#34;, author: &amp;#34;Homer&amp;#34; }, { title: &amp;#34;For whom the bell tolls&amp;#34;, author: &amp;#34;Ernest Hemingway&amp;#34; }, { title: &amp;#34;Treasure Island&amp;#34;, author: &amp;#34;Robert Louis Stevenson&amp;#34; } ] 2 functions, where one is a dependency of the other:</description></item><item><title>2022-05-03</title><link>http://lukhen.com/posts/2022-05-03/</link><pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-03/</guid><description>&lt;ul>
+&lt;li>it finally works&lt;/li>
+&lt;li>keybindings&lt;/li>
+&lt;/ul></description></item><item><title>2022-05-02</title><link>http://lukhen.com/posts/2022-05-02/</link><pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-02/</guid><description>&lt;ul>
+&lt;li>I changed dailies dir&lt;/li>
+&lt;li>change to hugo&lt;/li>
+&lt;/ul></description></item><item><title>2022-05-01</title><link>http://lukhen.com/posts/2022-05-01/</link><pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-01/</guid><description>&lt;ul>
+&lt;li>haskell-lsp, no lsp-ui&lt;/li>
+&lt;li>compiling hls&lt;/li>
+&lt;li>hugo instead of jekyll&lt;/li>
+&lt;/ul></description></item><item><title>2022-04-30</title><link>http://lukhen.com/posts/2022-04-30/</link><pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-04-30/</guid><description>&lt;ul>
+&lt;li>lsp&lt;/li>
+&lt;/ul></description></item><item><title>2022-04-29</title><link>http://lukhen.com/posts/2022-04-29/</link><pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-04-29/</guid><description>&lt;ul>
+&lt;li>language server&lt;/li>
+&lt;/ul></description></item><item><title>2022-04-28</title><link>http://lukhen.com/posts/2022-04-28/</link><pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-04-28/</guid><description>&lt;ul>
+&lt;li>custom dimain on github pages&lt;/li>
+&lt;/ul></description></item><item><title>2022-04-27</title><link>http://lukhen.com/posts/2022-04-27/</link><pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-04-27/</guid><description>&lt;ul>
+&lt;li>emacs for haskell&lt;/li>
+&lt;/ul></description></item><item><title>2022-04-26</title><link>http://lukhen.com/posts/2022-04-26/</link><pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-04-26/</guid><description>&lt;ul>
+&lt;li>uninstall haskell&lt;/li>
+&lt;/ul></description></item><item><title>2022-04-25</title><link>http://lukhen.com/posts/2022-04-25/</link><pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-04-25/</guid><description>&lt;ul>
+&lt;li>haskell cabal&lt;/li>
+&lt;li>haskell install&lt;/li>
+&lt;li>haskell a few lines of code&lt;/li>
+&lt;/ul></description></item><item><title>2022-04-20</title><link>http://lukhen.com/posts/2022-04-20/</link><pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-04-20/</guid><description>&lt;ul>
+&lt;li>getRows&lt;/li>
+&lt;/ul></description></item><item><title>Simple lens and traversal (optics in typescript with fp-ts)</title><link>http://lukhen.com/posts/20220417135003-simple_lense_and_traversal_optics_in_typescript_with_fp_ts/</link><pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/20220417135003-simple_lense_and_traversal_optics_in_typescript_with_fp_ts/</guid><description>We have 3 simple types:
 interface guest { name: string email: string } interface room { name: string } interface reservation { dateFrom: Date dateTo: Date guest: guest room: room } Let&amp;rsquo;s create one instance of reservation:
-const res: reservation = { dateFrom: new Date(), dateTo: new Date(), guest: { name: &amp;#34;guest name&amp;#34;, email: &amp;#34;guest@email.com&amp;#34; }, room: { name: &amp;#34;001&amp;#34; } } In fp data is immutable, so changing a nested field would end up with creating new instance like this::</description></item></channel></rss>
+const res: reservation = { dateFrom: new Date(), dateTo: new Date(), guest: { name: &amp;#34;guest name&amp;#34;, email: &amp;#34;guest@email.com&amp;#34; }, room: { name: &amp;#34;001&amp;#34; } } In fp data is immutable, so changing a nested field would end up with creating new instance like this::</description></item><item><title>2022-04-15</title><link>http://lukhen.com/posts/2022-04-15/</link><pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-04-15/</guid><description>&lt;ul>
+&lt;li>bug, no table&lt;/li>
+&lt;li>bug&lt;/li>
+&lt;/ul></description></item><item><title>do notation, aps</title><link>http://lukhen.com/posts/20220415231740-do_notation_aps/</link><pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/20220415231740-do_notation_aps/</guid><description>I like to use &amp;ldquo;do&amp;rdquo; notation with Either/TaskEither monads which I often use.
+declare const fetchX: () =&amp;gt; E.Either&amp;lt;Error, number&amp;gt; declare const fetchY: () =&amp;gt; E.Either&amp;lt;Error, string&amp;gt; Let&amp;rsquo;s imagine we need both x and y.
+pipe( fetchX, fetchY ) is wrong. Before I learned to use &amp;ldquo;do&amp;rdquo; I used to handle this problem like so:
+pipe( [fetchX(), fetchY()] as [E.Either&amp;lt;Error, number&amp;gt;, E.Either&amp;lt;Error, string&amp;gt;], (t) =&amp;gt; sequenceT(E.either)(...t), // convert a tuple of eithers to either of tuple E.</description></item><item><title>2022-04-14</title><link>http://lukhen.com/posts/2022-04-14/</link><pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-04-14/</guid><description>&lt;ul>
+&lt;li>I lost&lt;/li>
+&lt;/ul></description></item><item><title>2022-04-12</title><link>http://lukhen.com/posts/2022-04-12/</link><pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-04-12/</guid><description>&lt;ul>
+&lt;li>do notation&lt;/li>
+&lt;/ul></description></item><item><title>exit status of a shell command</title><link>http://lukhen.com/posts/20220407162206-exit_status_of_a_shell_command/</link><pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/20220407162206-exit_status_of_a_shell_command/</guid><description>Exit status of a command: 0 - ok 1 - minor problems 2 - serious trouble
+a command returns exit status of its subcommand or by using &amp;ldquo;exit x&amp;rdquo;</description></item><item><title>2022-04-04</title><link>http://lukhen.com/posts/2022-04-04/</link><pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-04-04/</guid><description>&lt;ul>
+&lt;li>ugrep&lt;/li>
+&lt;/ul></description></item><item><title>starting nodejs project with typescript and jest</title><link>http://lukhen.com/posts/20220331095949-starting_nodejs_project_with_typescript_and_jest/</link><pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/20220331095949-starting_nodejs_project_with_typescript_and_jest/</guid><description>mkdir projectname cd ./projectname
+npm init npm install typescript @types/node ts-node jest @types/jest ts-jest eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin &amp;ndash;save-dev tsc &amp;ndash;init
+//linting xxx touch .eslintrc.js // enter the following * module.exports = { parser: &amp;ldquo;@typescript-eslint/parser&amp;rdquo;, parserOptions: { ecmaVersion: &amp;ldquo;latest&amp;rdquo;, / Allows the use of modern ECMAScript features sourceType: &amp;ldquo;module&amp;rdquo;, / Allows for the use of imports }, extends: [&amp;ldquo;plugin:@typescript-eslint/recommended&amp;rdquo;], // Uses the linting rules from @typescript-eslint/eslint-plugin env: { node: true, // Enable Node.</description></item><item><title>2022-03-27</title><link>http://lukhen.com/posts/2022-03-27/</link><pubDate>Sun, 27 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-27/</guid><description>&lt;ul>
+&lt;li>python in lukhbook&lt;/li>
+&lt;/ul></description></item><item><title>2022-03-24</title><link>http://lukhen.com/posts/2022-03-24/</link><pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-24/</guid><description>&lt;ul>
+&lt;li>replication strategy&lt;/li>
+&lt;/ul></description></item><item><title>Run shell on a docker container</title><link>http://lukhen.com/posts/20220322063019-run_shell_on_a_docker_container/</link><pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/20220322063019-run_shell_on_a_docker_container/</guid><description>docker exec -ti container-name /bin/sh or /bin/bash
+// docker run &amp;ndash;interactive &amp;ndash;tty &amp;ndash;entrypoint /bin/sh container-namei</description></item><item><title>2022-03-20</title><link>http://lukhen.com/posts/2022-03-20/</link><pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-20/</guid><description>&lt;ul>
+&lt;li>Running haskell file with ghc&lt;/li>
+&lt;li>Drawing in haskell&lt;/li>
+&lt;li>Https only&lt;/li>
+&lt;/ul></description></item><item><title>Clean disk space (docker)</title><link>http://lukhen.com/posts/20220320121353-clean_disk_space/</link><pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/20220320121353-clean_disk_space/</guid><description>disk space ran out: sudo du -shc /var/* - show disk usage of each folder in /var docker image prune docker image prune -a docker container prune docker volume prune docker network prune</description></item><item><title>2022-03-19</title><link>http://lukhen.com/posts/2022-03-19/</link><pubDate>Sat, 19 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-19/</guid><description>&lt;ul>
+&lt;li>https request only&lt;/li>
+&lt;li>select count commands&lt;/li>
+&lt;/ul></description></item><item><title>2022-03-17</title><link>http://lukhen.com/posts/2022-03-17/</link><pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-17/</guid><description>solving settings problems Solving problems that concern software settings are sometimes very tricky. Lots of different software working togother is very satisfying, but it inevitably leads to hours of work when problem occurs. Most of the times it is the soft update that causes failures.</description></item><item><title>2022-03-14</title><link>http://lukhen.com/posts/2022-03-14/</link><pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-14/</guid><description>&lt;ul>
+&lt;li>struggling with authservice&lt;/li>
+&lt;/ul></description></item><item><title>2022-03-13</title><link>http://lukhen.com/posts/2022-03-13/</link><pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-13/</guid><description>&lt;ul>
+&lt;li>Haskell&amp;rsquo;s graphics package gloss&lt;/li>
+&lt;/ul></description></item><item><title>quoting in elisp</title><link>http://lukhen.com/posts/20220313095244-quoting_in_elisp/</link><pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/20220313095244-quoting_in_elisp/</guid><description>&lt;p>quoting or '&lt;/p></description></item><item><title>2022-03-12</title><link>http://lukhen.com/posts/2022-03-12/</link><pubDate>Sat, 12 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-12/</guid><description>&lt;ul>
+&lt;li>Updating the whole docker image is quite a task&lt;/li>
+&lt;li>functions&lt;/li>
+&lt;/ul></description></item><item><title>2022-03-11</title><link>http://lukhen.com/posts/2022-03-11/</link><pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-11/</guid><description>&lt;ul>
+&lt;li>filtering nodes in org-roam&lt;/li>
+&lt;li>passing a function as an arg in elisp&lt;/li>
+&lt;/ul></description></item><item><title>2022-03-10</title><link>http://lukhen.com/posts/2022-03-10/</link><pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-10/</guid><description>&lt;ul>
+&lt;li>error while building reactui2 after bumping up docker version&lt;/li>
+&lt;li>sparse tree with date&lt;/li>
+&lt;li>org roam search by date&lt;/li>
+&lt;/ul></description></item><item><title>2022-03-09</title><link>http://lukhen.com/posts/2022-03-09/</link><pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-09/</guid><description>&lt;ul>
+&lt;li>&amp;ldquo;/&amp;rdquo; at the end of proxy_pass&lt;/li>
+&lt;li>is all under control&lt;/li>
+&lt;li>templates&lt;/li>
+&lt;/ul></description></item><item><title>org mode and roam useful keybindings and functions</title><link>http://lukhen.com/posts/20220309062053-org_mode_and_roam_useful_keybindings_and_functions/</link><pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/20220309062053-org_mode_and_roam_useful_keybindings_and_functions/</guid><description>C-c C-t - change todo S-M-RET (org-insert-todo-heading) Insert a new TODO entry below the current one.
+M-Ret Insert new entry
+reload, sync database of org-roam org-roam-db-sync
+add CREATED property add-created-property
+open link at point C-c C-o
+find all notes published org-agenda -&amp;gt; tags -&amp;gt; published
+find all notes concerning a project C-c n l on project node</description></item><item><title>2022-03-08</title><link>http://lukhen.com/posts/2022-03-08/</link><pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-08/</guid><description>&lt;ul>
+&lt;li>org capture&lt;/li>
+&lt;/ul></description></item><item><title>2022-03-07</title><link>http://lukhen.com/posts/2022-03-07/</link><pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-07/</guid><description>&lt;ul>
+&lt;li>tags in emacs roam&lt;/li>
+&lt;/ul></description></item><item><title>2022-03-04</title><link>http://lukhen.com/posts/2022-03-04/</link><pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-04/</guid><description>&lt;ul>
+&lt;li>slash at the end of proxy pass in nginx conf file&lt;/li>
+&lt;/ul></description></item><item><title>2022-03-03</title><link>http://lukhen.com/posts/2022-03-03/</link><pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-03/</guid><description>&lt;ul>
+&lt;li>Strange problem&lt;/li>
+&lt;/ul></description></item><item><title>2022-03-02</title><link>http://lukhen.com/posts/2022-03-02/</link><pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-02/</guid><description>&lt;ul>
+&lt;li>building lukhbook on droplet&lt;/li>
+&lt;/ul></description></item><item><title>2022-03-01</title><link>http://lukhen.com/posts/2022-03-01/</link><pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-01/</guid><description>pull lukhbook I added ~/.ssh/github.pub from droplet to github keys.
+then on droplet:
+eval `ssh-agent -s`
+read this read this and ssh-add ~/.ssh/github //private key
+I changed origin in droplet&amp;rsquo;s lukhbook. But some time ago I changed something in Dockerfile. Now I have to make sth up to keep this change.
+I added to reactui dockerfile. Reactui has been removed, reactui2 is now the main frontend. I think I should add this line to reacui2 dockerfile.</description></item><item><title>2022-02-28</title><link>http://lukhen.com/posts/2022-02-28/</link><pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-02-28/</guid><description>github keys Pushing to github I have a problem with grasping how keys are used in github. What is the difference between gpg keys and ssh keys. Gpg keys -&amp;gt; signing commits
+I&amp;rsquo;ve added gpg key to github, then to git (git.user). But still I couldn&amp;rsquo;t push. Then I realized (read the docs more thoroughly) that gpg keys are used to sign commits, not to authenticate user, so that he can push.</description></item><item><title>2022-02-26</title><link>http://lukhen.com/posts/2022-02-26/</link><pubDate>Sat, 26 Feb 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-02-26/</guid><description>&lt;ul>
+&lt;li>pushing to github, gpg key&lt;/li>
+&lt;/ul></description></item><item><title>2022-02-25</title><link>http://lukhen.com/posts/2022-02-25/</link><pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-02-25/</guid><description>&lt;ul>
+&lt;li>I was trying to optimize picutres size&lt;/li>
+&lt;li>remove mirage&lt;/li>
+&lt;li>upgrading all docker images&lt;/li>
+&lt;/ul></description></item><item><title>2022-02-24</title><link>http://lukhen.com/posts/2022-02-24/</link><pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-02-24/</guid><description>&lt;ul>
+&lt;li>Problem with passing cypress test for auth service&lt;/li>
+&lt;li>Existance tests for all services&lt;/li>
+&lt;li>updating arch&lt;/li>
+&lt;/ul></description></item><item><title>2022-02-21</title><link>http://lukhen.com/posts/2022-02-21/</link><pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-02-21/</guid><description>&lt;ul>
+&lt;li>getUser as dependency instead of getToken&lt;/li>
+&lt;li>Secure jwt&lt;/li>
+&lt;/ul></description></item><item><title>2022-02-18</title><link>http://lukhen.com/posts/2022-02-18/</link><pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-02-18/</guid><description>&lt;ul>
+&lt;li>jwt secret&lt;/li>
+&lt;/ul></description></item><item><title>2022-01-29</title><link>http://lukhen.com/posts/2022-01-29/</link><pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-01-29/</guid><description>&lt;ul>
+&lt;li>TaskCoproduct4&lt;/li>
+&lt;li>Sync to async refactoring&lt;/li>
+&lt;/ul></description></item><item><title>2022-05-08</title><link>http://lukhen.com/posts/2022-05-08/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-08/</guid><description/></item><item><title>list all treasures</title><link>http://lukhen.com/posts/20220523115020-list_all_treasures/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/20220523115020-list_all_treasures/</guid><description>projectile grep with:
+filetags:.*treasure.*</description></item><item><title>list roam files that were not published (grep)</title><link>http://lukhen.com/posts/20220522232900-list_roam_files_that_were_not_published_grep/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/20220522232900-list_roam_files_that_were_not_published_grep/</guid><description>grep -r -L &amp;ndash;exclude-dir=.git &amp;ndash;exclude-dir=gtd &amp;ldquo;^#+hugo_publishdate: [0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]&amp;rdquo; .</description></item><item><title>new haskell project in lukhemacs</title><link>http://lukhen.com/posts/20220605162453-new_haskell_project_in_lukhemacs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/20220605162453-new_haskell_project_in_lukhemacs/</guid><description>Haskell config:
+install ghcup with with hls (here): curl &amp;ndash;proto &amp;lsquo;=https&amp;rsquo; &amp;ndash;tlsv1.2 -sSf https://get-ghcup.haskell.org | sh
+mkdir project
+cabal init cabal docs and simple tut
+cabal install implicit-hie
+gen-hie &amp;gt; hie.yaml (to make lsp-haskell work)</description></item><item><title>pushing and pulling to github</title><link>http://lukhen.com/posts/20220313103324-pushing_and_pulling_to_github/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/20220313103324-pushing_and_pulling_to_github/</guid><description>wrong each repo has to have its own ssh key repo ssh keys are used in advanced configurations it&amp;rsquo;s enough to set profile ssh key, ssh-add the key
+sometimes it&amp;rsquo;s neccessary to flush key-ring ssh-add -D
+pushing ssh-add ~/Desktop/droplet1_rsa magit push
+pulling on remote: eval `ssh-agent -s` ssh-add ~/.ssh/github git pull</description></item><item><title>resize disk space on virtual box</title><link>http://lukhen.com/posts/20220501084811-resize_disk_space_on_virtual_box/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/20220501084811-resize_disk_space_on_virtual_box/</guid><description>resize disk space:
+Plik/Menadżer nośników wirtualnych resize vm arch partition with gparted livecd
+Ustawienia/Pamięć/Dodaj napę wirtualny/Gparted boot increase /tmp space mount -o remount,size=5G,noatime /tmp</description></item></channel></rss>
