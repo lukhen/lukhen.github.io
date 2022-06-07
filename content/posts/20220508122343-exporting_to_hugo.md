@@ -27,3 +27,29 @@ ignoring certain tags:
 exclude files from exporting:
 
 -   add private tag in hugo_tags section
+
+
+## preparing a note file for publishing {#preparing-a-note-file-for-publishing}
+
+-   if a note has the possibility to be published in the future: tag with publishable
+-   if can be published: tag with journal
+-   if should not be published and probably won't be: mark with private
+-   if there are any notes to be published: delete line hugo_tags: private
+
+-   add summary and hugo: more
+-   add tags: for each itproject, subject it's about: foss, linux, functional_programming, etc
+
+
+## preparing a zettel file for publishing {#preparing-a-zettel-file-for-publishing}
+
+if it's to be completed: tag with treasure
+if it can be published: remove line: hugo_tags: private
+
+
+## exporting a single file to hugo {#exporting-a-single-file-to-hugo}
+
+
+## exporting the whole roam to hugo {#exporting-the-whole-roam-to-hugo}
+
+mark all files except .git
+C-+
