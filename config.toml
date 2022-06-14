@@ -2,3 +2,22 @@ baseURL = 'http://lukhen.com/'
 languageCode = 'en-us'
 title = 'lukhen'
 theme = "ananke"
+
+ [[menu.main]]
+        name = "Notes"
+        weight = -110
+        notes = "notes"
+        url = "/categories/notes/"
+
+[[menu.main]]
+        name = "Zettels"
+        weight = -110
+        notes = "zettel"
+        url = "/categories/zettel/"
+
+ [[menu.main]]
+        name = "About"
+        weight = -110
+        url = "/posts/20220613073717-about_me/"
+
+SectionPagesMenu = "main"
