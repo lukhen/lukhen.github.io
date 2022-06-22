@@ -21,3 +21,15 @@ theme = "ananke"
         url = "/posts/20220613073717-about_me/"
 
 SectionPagesMenu = "main"
+
+[[params.ananke_socials]]
+name = "twitter"
+url = "https://twitter.com/LukaszHen"
+
+[[params.ananke_socials]]
+name = "github"
+url = "https://github.com/lukhen"
+
+[[params.ananke_socials]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/lukasz-hen/"
