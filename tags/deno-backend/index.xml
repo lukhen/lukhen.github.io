@@ -1,4 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>deno-backend on lukhen</title><link>http://lukhen.com/tags/deno-backend/</link><description>Recent content in deno-backend on lukhen</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 04 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://lukhen.com/tags/deno-backend/index.xml" rel="self" type="application/rss+xml"/><item><title>2022-06-04</title><link>http://lukhen.com/posts/2022-06-04/</link><pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-06-04/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>deno-backend on lukhen</title><link>http://lukhen.com/tags/deno-backend/</link><description>Recent content in deno-backend on lukhen</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 29 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://lukhen.com/tags/deno-backend/index.xml" rel="self" type="application/rss+xml"/><item><title>2022-07-29</title><link>http://lukhen.com/posts/2022-07-29/</link><pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-07-29/</guid><description>&lt;ul>
+&lt;li>getJson&lt;/li>
+&lt;/ul></description></item><item><title>2022-06-19</title><link>http://lukhen.com/posts/2022-06-19/</link><pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-06-19/</guid><description>&lt;ul>
+&lt;li>fatal in replicator service&lt;/li>
+&lt;li>function idea&lt;/li>
+&lt;/ul></description></item><item><title>2022-06-18</title><link>http://lukhen.com/posts/2022-06-18/</link><pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-06-18/</guid><description>&lt;ul>
+&lt;li>deno_backend service dependencies&lt;/li>
+&lt;li>functions connecting to postgres in deno&lt;/li>
+&lt;/ul></description></item><item><title>2022-06-17</title><link>http://lukhen.com/posts/2022-06-17/</link><pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-06-17/</guid><description>&lt;ul>
+&lt;li>logging to postgresdb container&lt;/li>
+&lt;li>volume on stage build&lt;/li>
+&lt;li>deno refused connection&lt;/li>
+&lt;li>localhost vs 127.0.0.1&lt;/li>
+&lt;/ul></description></item><item><title>2022-06-14</title><link>http://lukhen.com/posts/2022-06-14/</link><pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-06-14/</guid><description>&lt;ul>
+&lt;li>throwing is a side effect&lt;/li>
+&lt;/ul></description></item><item><title>2022-06-12</title><link>http://lukhen.com/posts/2022-06-12/</link><pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-06-12/</guid><description>&lt;ul>
+&lt;li>Deno thoughts&lt;/li>
+&lt;/ul></description></item><item><title>2022-06-04</title><link>http://lukhen.com/posts/2022-06-04/</link><pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-06-04/</guid><description>&lt;ul>
 &lt;li>temporary switching to lsp-mode for typescript&lt;/li>
 &lt;li>testing request handler&lt;/li>
 &lt;/ul></description></item><item><title>2022-06-03</title><link>http://lukhen.com/posts/2022-06-03/</link><pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-06-03/</guid><description>&lt;ul>
