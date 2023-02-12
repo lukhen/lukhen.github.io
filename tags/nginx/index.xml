@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>nginx on lukhen</title><link>http://lukhen.com/tags/nginx/</link><description>Recent content in nginx on lukhen</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 09 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://lukhen.com/tags/nginx/index.xml" rel="self" type="application/rss+xml"/><item><title>2022-03-09</title><link>http://lukhen.com/posts/2022-03-09/</link><pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-09/</guid><description>&lt;ul>
-&lt;li>&amp;ldquo;/&amp;rdquo; at the end of proxy_pass&lt;/li>
-&lt;li>is all under control&lt;/li>
-&lt;li>templates&lt;/li>
-&lt;/ul></description></item><item><title>2022-03-04</title><link>http://lukhen.com/posts/2022-03-04/</link><pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-04/</guid><description>&lt;ul>
-&lt;li>slash at the end of proxy pass in nginx conf file&lt;/li>
-&lt;/ul></description></item></channel></rss>

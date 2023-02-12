@@ -1,27 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>notes on lukhen</title><link>http://lukhen.com/categories/notes/</link><description>Recent content in notes on lukhen</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 29 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://lukhen.com/categories/notes/index.xml" rel="self" type="application/rss+xml"/><item><title>2022-07-29</title><link>http://lukhen.com/posts/2022-07-29/</link><pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-07-29/</guid><description>&lt;ul>
-&lt;li>getJson&lt;/li>
-&lt;/ul></description></item><item><title>2022-07-27</title><link>http://lukhen.com/posts/2022-07-27/</link><pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-07-27/</guid><description>&lt;ul>
-&lt;li>io-ts&lt;/li>
-&lt;/ul></description></item><item><title>2022-07-23</title><link>http://lukhen.com/posts/2022-07-23/</link><pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-07-23/</guid><description>&lt;ul>
-&lt;li>a lot of type castings&lt;/li>
-&lt;/ul></description></item><item><title>2022-07-21</title><link>http://lukhen.com/posts/2022-07-21/</link><pubDate>Thu, 21 Jul 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-07-21/</guid><description>&lt;ul>
-&lt;li>dynamically access to object&amp;rsquo;s members in typescript&lt;/li>
-&lt;li>what is index.test.ts for ?&lt;/li>
-&lt;li>strange behaviour of generic type with tuple of objects&lt;/li>
-&lt;/ul></description></item><item><title>2022-07-20</title><link>http://lukhen.com/posts/2022-07-20/</link><pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-07-20/</guid><description>&lt;ul>
-&lt;li>porting fp-ts/index.ts to deno&lt;/li>
-&lt;/ul></description></item><item><title>2022-07-19</title><link>http://lukhen.com/posts/2022-07-19/</link><pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-07-19/</guid><description>&lt;ul>
-&lt;li>dired-toggle-read-only&lt;/li>
-&lt;li>add ts extension&lt;/li>
-&lt;/ul></description></item><item><title>2022-07-15</title><link>http://lukhen.com/posts/2022-07-15/</link><pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-07-15/</guid><description>&lt;ul>
-&lt;li>not all tests pass&lt;/li>
-&lt;li>rewriting tests&lt;/li>
-&lt;/ul></description></item><item><title>2022-07-13</title><link>http://lukhen.com/posts/2022-07-13/</link><pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-07-13/</guid><description>&lt;ul>
-&lt;li>Type.ts passed&lt;/li>
-&lt;/ul></description></item><item><title>2022-07-07</title><link>http://lukhen.com/posts/2022-07-07/</link><pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-07-07/</guid><description>&lt;ul>
-&lt;li>importing HKT.ts&lt;/li>
-&lt;/ul></description></item><item><title>2022-07-05</title><link>http://lukhen.com/posts/2022-07-05/</link><pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-07-05/</guid><description>&lt;ul>
-&lt;li>importing URIS2 from HKT&lt;/li>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>notes on lukhen</title><link>http://lukhen.com/categories/notes/</link><description>Recent content in notes on lukhen</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 29 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://lukhen.com/categories/notes/index.xml" rel="self" type="application/rss+xml"/><item><title>2022-08-29</title><link>http://lukhen.com/posts/2022-08-29/</link><pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-08-29/</guid><description>&lt;ul>
+&lt;li>const vs function&lt;/li>
+&lt;/ul></description></item><item><title>2022-08-23</title><link>http://lukhen.com/posts/2022-08-23/</link><pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-08-23/</guid><description>&lt;ul>
+&lt;li>org fc review&lt;/li>
+&lt;li>org fc&lt;/li>
 &lt;/ul></description></item><item><title>2022-07-01</title><link>http://lukhen.com/posts/2022-07-01/</link><pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-07-01/</guid><description>&lt;ul>
 &lt;li>type checking in runtime in typescript&lt;/li>
 &lt;/ul></description></item><item><title>2022-06-28</title><link>http://lukhen.com/posts/2022-06-28/</link><pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-06-28/</guid><description>&lt;ul>
@@ -31,45 +12,14 @@
 &lt;li>understanding type classes, kinds, hkts&lt;/li>
 &lt;/ul></description></item><item><title>2022-06-22</title><link>http://lukhen.com/posts/2022-06-22/</link><pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-06-22/</guid><description>&lt;ul>
 &lt;li>hugo socials&lt;/li>
-&lt;/ul></description></item><item><title>2022-06-19</title><link>http://lukhen.com/posts/2022-06-19/</link><pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-06-19/</guid><description>&lt;ul>
-&lt;li>fatal in replicator service&lt;/li>
-&lt;li>function idea&lt;/li>
-&lt;/ul></description></item><item><title>2022-06-18</title><link>http://lukhen.com/posts/2022-06-18/</link><pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-06-18/</guid><description>&lt;ul>
-&lt;li>deno_backend service dependencies&lt;/li>
-&lt;li>functions connecting to postgres in deno&lt;/li>
-&lt;/ul></description></item><item><title>2022-06-17</title><link>http://lukhen.com/posts/2022-06-17/</link><pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-06-17/</guid><description>&lt;ul>
-&lt;li>logging to postgresdb container&lt;/li>
-&lt;li>volume on stage build&lt;/li>
-&lt;li>deno refused connection&lt;/li>
-&lt;li>localhost vs 127.0.0.1&lt;/li>
-&lt;/ul></description></item><item><title>2022-06-14</title><link>http://lukhen.com/posts/2022-06-14/</link><pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-06-14/</guid><description>&lt;ul>
-&lt;li>throwing is a side effect&lt;/li>
-&lt;/ul></description></item><item><title>2022-06-12</title><link>http://lukhen.com/posts/2022-06-12/</link><pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-06-12/</guid><description>&lt;ul>
-&lt;li>Deno thoughts&lt;/li>
 &lt;/ul></description></item><item><title>2022-06-10</title><link>http://lukhen.com/posts/2022-06-10/</link><pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-06-10/</guid><description>&lt;ul>
 &lt;li>fromAny constructor&lt;/li>
-&lt;/ul></description></item><item><title>2022-06-08</title><link>http://lukhen.com/posts/2022-06-08/</link><pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-06-08/</guid><description>&lt;ul>
-&lt;li>example in docstring&lt;/li>
-&lt;li>writing getUserHandler&lt;/li>
 &lt;/ul></description></item><item><title>2022-06-06</title><link>http://lukhen.com/posts/2022-06-06/</link><pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-06-06/</guid><description>&lt;ul>
 &lt;li>dired jump&lt;/li>
-&lt;/ul></description></item><item><title>2022-06-04</title><link>http://lukhen.com/posts/2022-06-04/</link><pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-06-04/</guid><description>&lt;ul>
-&lt;li>temporary switching to lsp-mode for typescript&lt;/li>
-&lt;li>testing request handler&lt;/li>
-&lt;/ul></description></item><item><title>2022-06-03</title><link>http://lukhen.com/posts/2022-06-03/</link><pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-06-03/</guid><description>&lt;ul>
-&lt;li>setting lsp server var in myinit.org&lt;/li>
 &lt;/ul></description></item><item><title>2022-06-01</title><link>http://lukhen.com/posts/2022-06-01/</link><pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-06-01/</guid><description>&lt;ul>
 &lt;li>setting up deno in emacs&lt;/li>
 &lt;li>deno config for emacs&lt;/li>
 &lt;li>testing async with deno&lt;/li>
-&lt;/ul></description></item><item><title>2022-05-31</title><link>http://lukhen.com/posts/2022-05-31/</link><pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-31/</guid><description>&lt;ul>
-&lt;li>typescript project as a library&lt;/li>
-&lt;li>install local modules with npm&lt;/li>
-&lt;li>deno install packages&lt;/li>
-&lt;li>play with deno&lt;/li>
-&lt;li>deno&lt;/li>
-&lt;/ul></description></item><item><title>2022-05-30</title><link>http://lukhen.com/posts/2022-05-30/</link><pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-30/</guid><description>&lt;ul>
-&lt;li>creating lukhentools&lt;/li>
 &lt;/ul></description></item><item><title>2022-05-26</title><link>http://lukhen.com/posts/2022-05-26/</link><pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-26/</guid><description>&lt;ul>
 &lt;li>private links properties&lt;/li>
 &lt;li>new haskell project in lukhemacs&lt;/li>
@@ -88,10 +38,6 @@
 &lt;li>exporting with just a function&lt;/li>
 &lt;li>batch export&lt;/li>
 &lt;li>straight&lt;/li>
-&lt;/ul></description></item><item><title>2022-05-20</title><link>http://lukhen.com/posts/2022-05-20/</link><pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-20/</guid><description>&lt;ul>
-&lt;li>publishing&lt;/li>
-&lt;li>insert current filename in emacs&lt;/li>
-&lt;li>list files that were not published&lt;/li>
 &lt;/ul></description></item><item><title>2022-05-19</title><link>http://lukhen.com/posts/2022-05-19/</link><pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-19/</guid><description>&lt;ul>
 &lt;li>exclude file from export&lt;/li>
 &lt;li>add file tags&lt;/li>
@@ -101,9 +47,6 @@
 https://github.com/kaushalmodi/ox-hugo/issues/483#issuecomment-1003301339 (setq org-id-extra-files (find-lisp-find-files org-roam-directory &amp;ldquo;\.org$&amp;rdquo;)) But the problem was somewhere else. I handled it by changing the way of exporting notes.</description></item><item><title>2022-05-15</title><link>http://lukhen.com/posts/2022-05-15/</link><pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-15/</guid><description>&lt;ul>
 &lt;li>exporting with tags&lt;/li>
 &lt;li>publish date&lt;/li>
-&lt;/ul></description></item><item><title>2022-05-09</title><link>http://lukhen.com/posts/2022-05-09/</link><pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-09/</guid><description>&lt;ul>
-&lt;li>supbprojects&lt;/li>
-&lt;li>submodules&lt;/li>
 &lt;/ul></description></item><item><title>2022-05-06</title><link>http://lukhen.com/posts/2022-05-06/</link><pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-06/</guid><description>&lt;ul>
 &lt;li>itprojects&lt;/li>
 &lt;li>removed some file from tracking&lt;/li>
@@ -112,9 +55,6 @@ https://github.com/kaushalmodi/ox-hugo/issues/483#issuecomment-1003301339 (setq 
 &lt;li>old tsc&lt;/li>
 &lt;/ul></description></item><item><title>2022-05-04</title><link>http://lukhen.com/posts/2022-05-04/</link><pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-04/</guid><description>&lt;ul>
 &lt;li>haskell test&lt;/li>
-&lt;/ul></description></item><item><title>2022-05-03</title><link>http://lukhen.com/posts/2022-05-03/</link><pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-03/</guid><description>&lt;ul>
-&lt;li>it finally works&lt;/li>
-&lt;li>keybindings&lt;/li>
 &lt;/ul></description></item><item><title>2022-05-02</title><link>http://lukhen.com/posts/2022-05-02/</link><pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-02/</guid><description>&lt;ul>
 &lt;li>I changed dailies dir&lt;/li>
 &lt;li>change to hugo&lt;/li>
@@ -136,78 +76,21 @@ https://github.com/kaushalmodi/ox-hugo/issues/483#issuecomment-1003301339 (setq 
 &lt;li>haskell cabal&lt;/li>
 &lt;li>haskell install&lt;/li>
 &lt;li>haskell a few lines of code&lt;/li>
-&lt;/ul></description></item><item><title>2022-04-20</title><link>http://lukhen.com/posts/2022-04-20/</link><pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-04-20/</guid><description>&lt;ul>
-&lt;li>getRows&lt;/li>
-&lt;/ul></description></item><item><title>2022-04-15</title><link>http://lukhen.com/posts/2022-04-15/</link><pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-04-15/</guid><description>&lt;ul>
-&lt;li>bug, no table&lt;/li>
-&lt;li>bug&lt;/li>
-&lt;/ul></description></item><item><title>2022-04-14</title><link>http://lukhen.com/posts/2022-04-14/</link><pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-04-14/</guid><description>&lt;ul>
-&lt;li>I lost&lt;/li>
-&lt;/ul></description></item><item><title>2022-04-12</title><link>http://lukhen.com/posts/2022-04-12/</link><pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-04-12/</guid><description>&lt;ul>
-&lt;li>do notation&lt;/li>
 &lt;/ul></description></item><item><title>2022-04-04</title><link>http://lukhen.com/posts/2022-04-04/</link><pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-04-04/</guid><description>&lt;ul>
 &lt;li>ugrep&lt;/li>
-&lt;/ul></description></item><item><title>2022-03-27</title><link>http://lukhen.com/posts/2022-03-27/</link><pubDate>Sun, 27 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-27/</guid><description>&lt;ul>
-&lt;li>python in lukhbook&lt;/li>
-&lt;/ul></description></item><item><title>2022-03-24</title><link>http://lukhen.com/posts/2022-03-24/</link><pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-24/</guid><description>&lt;ul>
-&lt;li>replication strategy&lt;/li>
-&lt;/ul></description></item><item><title>2022-03-20</title><link>http://lukhen.com/posts/2022-03-20/</link><pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-20/</guid><description>&lt;ul>
-&lt;li>Running haskell file with ghc&lt;/li>
-&lt;li>Drawing in haskell&lt;/li>
-&lt;li>Https only&lt;/li>
-&lt;/ul></description></item><item><title>2022-03-19</title><link>http://lukhen.com/posts/2022-03-19/</link><pubDate>Sat, 19 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-19/</guid><description>&lt;ul>
-&lt;li>https request only&lt;/li>
-&lt;li>select count commands&lt;/li>
-&lt;/ul></description></item><item><title>2022-03-17</title><link>http://lukhen.com/posts/2022-03-17/</link><pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-17/</guid><description>solving settings problems Solving problems that concern software settings are sometimes very tricky. Lots of different software working togother is very satisfying, but it inevitably leads to hours of work when problem occurs. Most of the times it is the soft update that causes failures.</description></item><item><title>2022-03-14</title><link>http://lukhen.com/posts/2022-03-14/</link><pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-14/</guid><description>&lt;ul>
-&lt;li>struggling with authservice&lt;/li>
-&lt;/ul></description></item><item><title>2022-03-13</title><link>http://lukhen.com/posts/2022-03-13/</link><pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-13/</guid><description>&lt;ul>
+&lt;/ul></description></item><item><title>2022-03-17</title><link>http://lukhen.com/posts/2022-03-17/</link><pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-17/</guid><description>solving settings problems Solving problems that concern software settings are sometimes very tricky. Lots of different software working togother is very satisfying, but it inevitably leads to hours of work when problem occurs. Most of the times it is the soft update that causes failures.</description></item><item><title>2022-03-13</title><link>http://lukhen.com/posts/2022-03-13/</link><pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-13/</guid><description>&lt;ul>
 &lt;li>Haskell&amp;rsquo;s graphics package gloss&lt;/li>
-&lt;/ul></description></item><item><title>2022-03-12</title><link>http://lukhen.com/posts/2022-03-12/</link><pubDate>Sat, 12 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-12/</guid><description>&lt;ul>
-&lt;li>Updating the whole docker image is quite a task&lt;/li>
-&lt;li>functions&lt;/li>
 &lt;/ul></description></item><item><title>2022-03-11</title><link>http://lukhen.com/posts/2022-03-11/</link><pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-11/</guid><description>&lt;ul>
 &lt;li>filtering nodes in org-roam&lt;/li>
 &lt;li>passing a function as an arg in elisp&lt;/li>
-&lt;/ul></description></item><item><title>2022-03-10</title><link>http://lukhen.com/posts/2022-03-10/</link><pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-10/</guid><description>&lt;ul>
-&lt;li>error while building reactui2 after bumping up docker version&lt;/li>
-&lt;li>sparse tree with date&lt;/li>
-&lt;li>org roam search by date&lt;/li>
-&lt;/ul></description></item><item><title>2022-03-09</title><link>http://lukhen.com/posts/2022-03-09/</link><pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-09/</guid><description>&lt;ul>
-&lt;li>&amp;ldquo;/&amp;rdquo; at the end of proxy_pass&lt;/li>
-&lt;li>is all under control&lt;/li>
-&lt;li>templates&lt;/li>
 &lt;/ul></description></item><item><title>2022-03-08</title><link>http://lukhen.com/posts/2022-03-08/</link><pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-08/</guid><description>&lt;ul>
 &lt;li>org capture&lt;/li>
 &lt;/ul></description></item><item><title>2022-03-07</title><link>http://lukhen.com/posts/2022-03-07/</link><pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-07/</guid><description>&lt;ul>
 &lt;li>tags in emacs roam&lt;/li>
-&lt;/ul></description></item><item><title>2022-03-04</title><link>http://lukhen.com/posts/2022-03-04/</link><pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-04/</guid><description>&lt;ul>
-&lt;li>slash at the end of proxy pass in nginx conf file&lt;/li>
-&lt;/ul></description></item><item><title>2022-03-03</title><link>http://lukhen.com/posts/2022-03-03/</link><pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-03/</guid><description>&lt;ul>
-&lt;li>Strange problem&lt;/li>
-&lt;/ul></description></item><item><title>2022-03-02</title><link>http://lukhen.com/posts/2022-03-02/</link><pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-02/</guid><description>&lt;ul>
-&lt;li>building lukhbook on droplet&lt;/li>
 &lt;/ul></description></item><item><title>2022-03-01</title><link>http://lukhen.com/posts/2022-03-01/</link><pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-01/</guid><description>pull lukhbook I added ~/.ssh/github.pub from droplet to github keys.
 then on droplet:
 eval `ssh-agent -s`
 read this read this and ssh-add ~/.ssh/github //private key
 I changed origin in droplet&amp;rsquo;s lukhbook. But some time ago I changed something in Dockerfile. Now I have to make sth up to keep this change.
 I added to reactui dockerfile. Reactui has been removed, reactui2 is now the main frontend. I think I should add this line to reacui2 dockerfile.</description></item><item><title>2022-02-28</title><link>http://lukhen.com/posts/2022-02-28/</link><pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-02-28/</guid><description>github keys Pushing to github I have a problem with grasping how keys are used in github. What is the difference between gpg keys and ssh keys. Gpg keys -&amp;gt; signing commits
-I&amp;rsquo;ve added gpg key to github, then to git (git.user). But still I couldn&amp;rsquo;t push. Then I realized (read the docs more thoroughly) that gpg keys are used to sign commits, not to authenticate user, so that he can push.</description></item><item><title>2022-02-26</title><link>http://lukhen.com/posts/2022-02-26/</link><pubDate>Sat, 26 Feb 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-02-26/</guid><description>&lt;ul>
-&lt;li>pushing to github, gpg key&lt;/li>
-&lt;/ul></description></item><item><title>2022-02-25</title><link>http://lukhen.com/posts/2022-02-25/</link><pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-02-25/</guid><description>&lt;ul>
-&lt;li>I was trying to optimize picutres size&lt;/li>
-&lt;li>remove mirage&lt;/li>
-&lt;li>upgrading all docker images&lt;/li>
-&lt;/ul></description></item><item><title>2022-02-24</title><link>http://lukhen.com/posts/2022-02-24/</link><pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-02-24/</guid><description>&lt;ul>
-&lt;li>Problem with passing cypress test for auth service&lt;/li>
-&lt;li>Existance tests for all services&lt;/li>
-&lt;li>updating arch&lt;/li>
-&lt;/ul></description></item><item><title>2022-02-21</title><link>http://lukhen.com/posts/2022-02-21/</link><pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-02-21/</guid><description>&lt;ul>
-&lt;li>getUser as dependency instead of getToken&lt;/li>
-&lt;li>Secure jwt&lt;/li>
-&lt;/ul></description></item><item><title>2022-02-18</title><link>http://lukhen.com/posts/2022-02-18/</link><pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-02-18/</guid><description>&lt;ul>
-&lt;li>jwt secret&lt;/li>
-&lt;/ul></description></item><item><title>2022-01-29</title><link>http://lukhen.com/posts/2022-01-29/</link><pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-01-29/</guid><description>&lt;ul>
-&lt;li>TaskCoproduct4&lt;/li>
-&lt;li>Sync to async refactoring&lt;/li>
-&lt;/ul></description></item><item><title>2022-05-08</title><link>http://lukhen.com/posts/2022-05-08/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-08/</guid><description/></item></channel></rss>
+I&amp;rsquo;ve added gpg key to github, then to git (git.user). But still I couldn&amp;rsquo;t push. Then I realized (read the docs more thoroughly) that gpg keys are used to sign commits, not to authenticate user, so that he can push.</description></item></channel></rss>

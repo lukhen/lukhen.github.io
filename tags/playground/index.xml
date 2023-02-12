@@ -7,12 +7,6 @@
 &lt;li>setting up deno in emacs&lt;/li>
 &lt;li>deno config for emacs&lt;/li>
 &lt;li>testing async with deno&lt;/li>
-&lt;/ul></description></item><item><title>2022-05-31</title><link>http://lukhen.com/posts/2022-05-31/</link><pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-31/</guid><description>&lt;ul>
-&lt;li>typescript project as a library&lt;/li>
-&lt;li>install local modules with npm&lt;/li>
-&lt;li>deno install packages&lt;/li>
-&lt;li>play with deno&lt;/li>
-&lt;li>deno&lt;/li>
 &lt;/ul></description></item><item><title>2022-05-24</title><link>http://lukhen.com/posts/2022-05-24/</link><pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-24/</guid><description>&lt;ul>
 &lt;li>shared folder on virtual box&lt;/li>
 &lt;li>installed haskell for emacs&lt;/li>
@@ -32,10 +26,6 @@
 &lt;li>haskell cabal&lt;/li>
 &lt;li>haskell install&lt;/li>
 &lt;li>haskell a few lines of code&lt;/li>
-&lt;/ul></description></item><item><title>2022-03-20</title><link>http://lukhen.com/posts/2022-03-20/</link><pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-20/</guid><description>&lt;ul>
-&lt;li>Running haskell file with ghc&lt;/li>
-&lt;li>Drawing in haskell&lt;/li>
-&lt;li>Https only&lt;/li>
 &lt;/ul></description></item><item><title>2022-03-13</title><link>http://lukhen.com/posts/2022-03-13/</link><pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-13/</guid><description>&lt;ul>
 &lt;li>Haskell&amp;rsquo;s graphics package gloss&lt;/li>
 &lt;/ul></description></item></channel></rss>
