@@ -4,12 +4,34 @@ categories = ["zettel"]
 draft = false
 +++
 
-Haskell config:
+run: git clone git@github.com:lukhen/haskbase.git
+remove .git
+git init (optionally)
+change haskbase with your own name
 
--   install ghcup with with hls ([here](https://www.haskell.org/ghcup/)):
-    curl --proto '=https' --tlsv1.2 -sSf <https://get-ghcup.haskell.org> | sh
+-   I use projectile grep
+-   change haskbase occurances and the haskbase.cabal file name
 
--   mkdir project
--   cabal init  [cabal docs and simple tut](https://cabal.readthedocs.io/en/3.6/getting-started.html)
--   cabal install implicit-hie
--   gen-hie &gt; hie.yaml (to make lsp-haskell work)
+run tests: cabal test
+run app: cabal run newname
+
+Adding new test file:
+
+1.  create file: xxxSpec.hs in test folder
+
+2.  add tests
+    module xxxSpec (spec) where
+    import Test.Hspec
+
+    spec :: Spec
+    spec = do
+       describe " xxx " $ do
+         it "xxxx" $ do
+           "\t  foo bar\n" \`shouldBe\` "foo bar"
+
+<!--listend-->
+
+1.  add module name (xxxSpec) to the spec/other-modules section
+
+run gen hie
+probably after every file creation
