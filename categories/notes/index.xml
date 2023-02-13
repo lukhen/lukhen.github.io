@@ -3,32 +3,17 @@
 &lt;/ul></description></item><item><title>2022-08-23</title><link>http://lukhen.com/posts/2022-08-23/</link><pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-08-23/</guid><description>&lt;ul>
 &lt;li>org fc review&lt;/li>
 &lt;li>org fc&lt;/li>
-&lt;/ul></description></item><item><title>2022-07-01</title><link>http://lukhen.com/posts/2022-07-01/</link><pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-07-01/</guid><description>&lt;ul>
-&lt;li>type checking in runtime in typescript&lt;/li>
-&lt;/ul></description></item><item><title>2022-06-28</title><link>http://lukhen.com/posts/2022-06-28/</link><pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-06-28/</guid><description>&lt;ul>
-&lt;li>functor combinators&lt;/li>
-&lt;li>deno version of fpts is outdated&lt;/li>
-&lt;/ul></description></item><item><title>2022-06-25</title><link>http://lukhen.com/posts/2022-06-25/</link><pubDate>Sat, 25 Jun 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-06-25/</guid><description>&lt;ul>
-&lt;li>understanding type classes, kinds, hkts&lt;/li>
 &lt;/ul></description></item><item><title>2022-06-22</title><link>http://lukhen.com/posts/2022-06-22/</link><pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-06-22/</guid><description>&lt;ul>
 &lt;li>hugo socials&lt;/li>
 &lt;/ul></description></item><item><title>2022-06-10</title><link>http://lukhen.com/posts/2022-06-10/</link><pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-06-10/</guid><description>&lt;ul>
 &lt;li>fromAny constructor&lt;/li>
 &lt;/ul></description></item><item><title>2022-06-06</title><link>http://lukhen.com/posts/2022-06-06/</link><pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-06-06/</guid><description>&lt;ul>
 &lt;li>dired jump&lt;/li>
-&lt;/ul></description></item><item><title>2022-06-01</title><link>http://lukhen.com/posts/2022-06-01/</link><pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-06-01/</guid><description>&lt;ul>
-&lt;li>setting up deno in emacs&lt;/li>
-&lt;li>deno config for emacs&lt;/li>
-&lt;li>testing async with deno&lt;/li>
 &lt;/ul></description></item><item><title>2022-05-26</title><link>http://lukhen.com/posts/2022-05-26/</link><pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-26/</guid><description>&lt;ul>
 &lt;li>private links properties&lt;/li>
 &lt;li>new haskell project in lukhemacs&lt;/li>
 &lt;/ul></description></item><item><title>2022-05-25</title><link>http://lukhen.com/posts/2022-05-25/</link><pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-25/</guid><description>&lt;ul>
 &lt;li>backlinks don&amp;rsquo;t show for commented (#) lines&lt;/li>
-&lt;/ul></description></item><item><title>2022-05-24</title><link>http://lukhen.com/posts/2022-05-24/</link><pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-24/</guid><description>&lt;ul>
-&lt;li>shared folder on virtual box&lt;/li>
-&lt;li>installed haskell for emacs&lt;/li>
-&lt;li>haskell in emacs&lt;/li>
 &lt;/ul></description></item><item><title>2022-05-23</title><link>http://lukhen.com/posts/2022-05-23/</link><pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-23/</guid><description>&lt;ul>
 &lt;li>variance annotations in typescript&lt;/li>
 &lt;/ul></description></item><item><title>2022-05-22</title><link>http://lukhen.com/posts/2022-05-22/</link><pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-22/</guid><description>&lt;ul>
@@ -50,11 +35,6 @@ https://github.com/kaushalmodi/ox-hugo/issues/483#issuecomment-1003301339 (setq 
 &lt;/ul></description></item><item><title>2022-05-06</title><link>http://lukhen.com/posts/2022-05-06/</link><pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-06/</guid><description>&lt;ul>
 &lt;li>itprojects&lt;/li>
 &lt;li>removed some file from tracking&lt;/li>
-&lt;/ul></description></item><item><title>2022-05-05</title><link>http://lukhen.com/posts/2022-05-05/</link><pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-05/</guid><description>&lt;ul>
-&lt;li>installing some initial packages with errors&lt;/li>
-&lt;li>old tsc&lt;/li>
-&lt;/ul></description></item><item><title>2022-05-04</title><link>http://lukhen.com/posts/2022-05-04/</link><pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-04/</guid><description>&lt;ul>
-&lt;li>haskell test&lt;/li>
 &lt;/ul></description></item><item><title>2022-05-02</title><link>http://lukhen.com/posts/2022-05-02/</link><pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-02/</guid><description>&lt;ul>
 &lt;li>I changed dailies dir&lt;/li>
 &lt;li>change to hugo&lt;/li>
@@ -62,25 +42,11 @@ https://github.com/kaushalmodi/ox-hugo/issues/483#issuecomment-1003301339 (setq 
 &lt;li>haskell-lsp, no lsp-ui&lt;/li>
 &lt;li>compiling hls&lt;/li>
 &lt;li>hugo instead of jekyll&lt;/li>
-&lt;/ul></description></item><item><title>2022-04-30</title><link>http://lukhen.com/posts/2022-04-30/</link><pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-04-30/</guid><description>&lt;ul>
-&lt;li>lsp&lt;/li>
-&lt;/ul></description></item><item><title>2022-04-29</title><link>http://lukhen.com/posts/2022-04-29/</link><pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-04-29/</guid><description>&lt;ul>
-&lt;li>language server&lt;/li>
 &lt;/ul></description></item><item><title>2022-04-28</title><link>http://lukhen.com/posts/2022-04-28/</link><pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-04-28/</guid><description>&lt;ul>
 &lt;li>custom dimain on github pages&lt;/li>
-&lt;/ul></description></item><item><title>2022-04-27</title><link>http://lukhen.com/posts/2022-04-27/</link><pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-04-27/</guid><description>&lt;ul>
-&lt;li>emacs for haskell&lt;/li>
-&lt;/ul></description></item><item><title>2022-04-26</title><link>http://lukhen.com/posts/2022-04-26/</link><pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-04-26/</guid><description>&lt;ul>
-&lt;li>uninstall haskell&lt;/li>
-&lt;/ul></description></item><item><title>2022-04-25</title><link>http://lukhen.com/posts/2022-04-25/</link><pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-04-25/</guid><description>&lt;ul>
-&lt;li>haskell cabal&lt;/li>
-&lt;li>haskell install&lt;/li>
-&lt;li>haskell a few lines of code&lt;/li>
 &lt;/ul></description></item><item><title>2022-04-04</title><link>http://lukhen.com/posts/2022-04-04/</link><pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-04-04/</guid><description>&lt;ul>
 &lt;li>ugrep&lt;/li>
-&lt;/ul></description></item><item><title>2022-03-17</title><link>http://lukhen.com/posts/2022-03-17/</link><pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-17/</guid><description>solving settings problems Solving problems that concern software settings are sometimes very tricky. Lots of different software working togother is very satisfying, but it inevitably leads to hours of work when problem occurs. Most of the times it is the soft update that causes failures.</description></item><item><title>2022-03-13</title><link>http://lukhen.com/posts/2022-03-13/</link><pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-13/</guid><description>&lt;ul>
-&lt;li>Haskell&amp;rsquo;s graphics package gloss&lt;/li>
-&lt;/ul></description></item><item><title>2022-03-11</title><link>http://lukhen.com/posts/2022-03-11/</link><pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-11/</guid><description>&lt;ul>
+&lt;/ul></description></item><item><title>2022-03-17</title><link>http://lukhen.com/posts/2022-03-17/</link><pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-17/</guid><description>solving settings problems Solving problems that concern software settings are sometimes very tricky. Lots of different software working togother is very satisfying, but it inevitably leads to hours of work when problem occurs. Most of the times it is the soft update that causes failures.</description></item><item><title>2022-03-11</title><link>http://lukhen.com/posts/2022-03-11/</link><pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-11/</guid><description>&lt;ul>
 &lt;li>filtering nodes in org-roam&lt;/li>
 &lt;li>passing a function as an arg in elisp&lt;/li>
 &lt;/ul></description></item><item><title>2022-03-08</title><link>http://lukhen.com/posts/2022-03-08/</link><pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-08/</guid><description>&lt;ul>

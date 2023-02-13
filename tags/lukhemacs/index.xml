@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>lukhemacs on lukhen</title><link>http://lukhen.com/tags/lukhemacs/</link><description>Recent content in lukhemacs on lukhen</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://lukhen.com/tags/lukhemacs/index.xml" rel="self" type="application/rss+xml"/><item><title>2022-06-01</title><link>http://lukhen.com/posts/2022-06-01/</link><pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-06-01/</guid><description>&lt;ul>
-&lt;li>setting up deno in emacs&lt;/li>
-&lt;li>deno config for emacs&lt;/li>
-&lt;li>testing async with deno&lt;/li>
-&lt;/ul></description></item><item><title>2022-05-26</title><link>http://lukhen.com/posts/2022-05-26/</link><pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-26/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>lukhemacs on lukhen</title><link>http://lukhen.com/tags/lukhemacs/</link><description>Recent content in lukhemacs on lukhen</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 26 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://lukhen.com/tags/lukhemacs/index.xml" rel="self" type="application/rss+xml"/><item><title>2022-05-26</title><link>http://lukhen.com/posts/2022-05-26/</link><pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-26/</guid><description>&lt;ul>
 &lt;li>private links properties&lt;/li>
 &lt;li>new haskell project in lukhemacs&lt;/li>
 &lt;/ul></description></item><item><title>2022-05-25</title><link>http://lukhen.com/posts/2022-05-25/</link><pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-05-25/</guid><description>&lt;ul>
@@ -33,14 +29,6 @@ https://github.com/kaushalmodi/ox-hugo/issues/483#issuecomment-1003301339 (setq 
 &lt;li>haskell-lsp, no lsp-ui&lt;/li>
 &lt;li>compiling hls&lt;/li>
 &lt;li>hugo instead of jekyll&lt;/li>
-&lt;/ul></description></item><item><title>2022-04-30</title><link>http://lukhen.com/posts/2022-04-30/</link><pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-04-30/</guid><description>&lt;ul>
-&lt;li>lsp&lt;/li>
-&lt;/ul></description></item><item><title>2022-04-29</title><link>http://lukhen.com/posts/2022-04-29/</link><pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-04-29/</guid><description>&lt;ul>
-&lt;li>language server&lt;/li>
-&lt;/ul></description></item><item><title>2022-04-27</title><link>http://lukhen.com/posts/2022-04-27/</link><pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-04-27/</guid><description>&lt;ul>
-&lt;li>emacs for haskell&lt;/li>
-&lt;/ul></description></item><item><title>2022-04-26</title><link>http://lukhen.com/posts/2022-04-26/</link><pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-04-26/</guid><description>&lt;ul>
-&lt;li>uninstall haskell&lt;/li>
 &lt;/ul></description></item><item><title>2022-03-11</title><link>http://lukhen.com/posts/2022-03-11/</link><pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate><guid>http://lukhen.com/posts/2022-03-11/</guid><description>&lt;ul>
 &lt;li>filtering nodes in org-roam&lt;/li>
 &lt;li>passing a function as an arg in elisp&lt;/li>
